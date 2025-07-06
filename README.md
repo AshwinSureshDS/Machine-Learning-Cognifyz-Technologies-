@@ -1,4 +1,4 @@
-# Cognifyz Machine Learning Projects
+# Cognifyz Technologies Machine Learning Projects
 
 
 ## Overview
